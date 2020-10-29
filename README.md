@@ -1,6 +1,9 @@
 # microservice-exam
  - Exam text can be found [here](./doc/PG6101_Hjemmeeksamen.pdf)
  - Kandidat nr: 5019
+ 
+ 
+![Alt text](https://github.com/sanogotech/microservice-exam/blob/master/architectureMicroservicesample.png "a title")
 
 #### How to run?
 First make sure that no other process is running on port 80 or 8080 if you are running only one service locally
